@@ -1,0 +1,45 @@
+#top{
+	height: 100vh;
+	background-image: url(../images/computer.jpg);
+	background-position: center;
+	text-align: center;
+}
+#top .container{
+	padding-top: 20%;
+}
+#top .container h1{
+	font-size: 400%;
+}
+#top .container p{
+	font-size: 300%;
+	font-family: Arial;
+}
+#MyPhoto{
+	width : 200px; height : 200px;
+  border: solid 7px #C5E2E1 ;
+  -moz-border-radius : 100px;
+  -webkit-border-radius : 100px;
+  border-radius : 100px;
+}
+.footer{
+	background-color: #C5E2E1 ;
+}
+.azul{
+	background-color: #C5E2E1 ;
+}
+.row{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.experience{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.download {
+	padding: 10px 30px; 
+	background: #C5E2E1; 
+}
